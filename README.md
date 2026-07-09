@@ -1,5 +1,3 @@
-# Backend_E_Commerce_System
-
 # E-Commerce Backend API
 
 A production-ready RESTful API for an E-Commerce application, built using Node.js, Express.js, and MongoDB (via Mongoose). This project features user authentication, product catalog management, a shopping cart module, and order processing.

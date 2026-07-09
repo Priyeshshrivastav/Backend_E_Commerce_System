@@ -11,7 +11,7 @@ A production-ready RESTful API for an E-Commerce application, built using Node.j
 - **User Login**: Validates credentials and returns JSON Web Tokens (JWT) for stateless session handling.
 - **Cookie & Header Authentication**: Stores and verifies JWT tokens via secure HTTP-only cookies or Authorization Bearer headers.
 
-### 2. Product Catalog
+### 2. Product Catalog -
 - Full CRUD operations:
   - `POST /user/product`: Add products (Admin-only recommended, supports name, description, price, stock, category, image).
   - `GET /user/product`: Fetch all products.
